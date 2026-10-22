@@ -77,10 +77,25 @@
 
 ###
 
+
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AntonioGiannini-BR&show_icons=true&theme=dracula&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioGiannini-BR&layout=compact&theme=dracula&langs_count=6" alt="Linguagens mais usadas" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AntonioGiannini-BR&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false&hide_title=false&hide_rank=false&rank_icon=default&custom_title=AntonioGiannini-BR%27s%20GitHub%20Stats"
+    height="200"
+    alt="GitHub Stats"
+  />
 </div>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioGiannini-BR&layout=compact&langs_count=5&theme=dracula&hide_border=false&custom_title=Most%20Used%20Languages"
+    height="180"
+    alt="Most Used Languages"
+  />
+</div>
+
 
 
 ###
