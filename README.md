@@ -1,123 +1,67 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<div align="center">
 
-###
+# Antonio Giannini
 
-<p data-importer="text" align="left">My name is Antonio Giannini and I'm a Computer Science student from Recife, Brazil 🇧🇷.</p>
+**Computer Science Student · Software Development · Cybersecurity**
 
-###
+Building secure applications, learning modern software engineering, and exploring AI-powered solutions.
 
-<h2 data-importer="text" align="left">About me</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![Instagram](https://img.shields.io/badge/Instagram-262626?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_antoniogiannini_/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/72ZETgYf)
 
-###
-
-<p data-importer="text" align="left">✨ Creating bugs since 2023 — turning bugs into learning opportunities. 🐛<br>📚 I'm currently learning Software Engineering, Cybersecurity, AI, FastAPI, React and Cloud Technologies.<br>🎯 Goals: Become a Software Engineer, build secure and scalable applications, and contribute to impactful technology projects.<br>🎲 Fun fact: I love transforming ideas into real projects, from cybersecurity dashboards to AI-powered platforms.</p>
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/antonio-giannini-b20aaa316" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/72ZETgYf" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/_antoniogiannini_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/antonioeduardo2811@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
-###
+## About me
 
-<h2 data-importer="text" align="left">I code with</h2>
+I'm a Computer Science student based in Recife, Brazil 🇧🇷, interested in building practical, reliable software.
 
-###
+- **Currently exploring:** Software Engineering, Cybersecurity, AI, FastAPI, React, and Cloud Technologies.
+- **I enjoy:** Backend development, APIs, automation, and turning ideas into working products.
+- **My goal:** Grow as a software engineer and contribute to meaningful projects.
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-</div>
+## Tech stack
 
-###
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Frameworks & tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-333333?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+## Featured projects
+
+### [CyberSentinel](https://github.com/AntonioGiannini-BR/CyberSentinel)
+A cybersecurity dashboard for analyzing logs, identifying suspicious login activity, and generating reports.
+
+`Python` · `Flask` · `SQLite` · `Docker`
+
+### PulseOps AI
+A software engineering project exploring API development, structured workflows, and AI-oriented features.
+
+`API Development` · `Software Engineering` · `AI`
+
+> More projects are available in my [repositories](https://github.com/AntonioGiannini-BR?tab=repositories).
+
+## GitHub activity
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AntonioGiannini-BR&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false&hide_title=false&hide_rank=false&rank_icon=default&custom_title=AntonioGiannini-BR%27s%20GitHub%20Stats"
-    height="200"
-    alt="GitHub Stats"
-  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=AntonioGiannini-BR&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Antonio's GitHub statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioGiannini-BR&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used languages" height="165" />
+
 </div>
 
-<br>
+## Contribution activity
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioGiannini-BR&layout=compact&langs_count=5&theme=dracula&hide_border=false&custom_title=Most%20Used%20Languages"
-    height="180"
-    alt="Most Used Languages"
-  />
+
+<img src="https://raw.githubusercontent.com/AntonioGiannini-BR/AntonioGiannini-BR/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%" />
+
 </div>
 
-
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonioGiannini-BR/AntonioGiannini-BR/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonioGiannini-BR/AntonioGiannini-BR/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AntonioGiannini-BR/AntonioGiannini-BR/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=random"  />
-</div>
-
-###
