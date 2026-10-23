@@ -20,6 +20,14 @@ I'm a Computer Science student based in Recife, Brazil 🇧🇷, interested in b
 - **I enjoy:** Backend development, APIs, automation, and turning ideas into working products.
 - **My goal:** Grow as a software engineer and contribute to meaningful projects.
 
+<div align="center">
+  <img
+    src="antonio_terminal.gif"
+    width="550"
+    alt="Antonio Giannini - Developer Terminal"
+  />
+</div>
+
 ## Tech stack
 
 **Languages**
