@@ -51,17 +51,27 @@ A software engineering project exploring API development, structured workflows, 
 ## GitHub activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AntonioGiannini-BR&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Antonio's GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioGiannini-BR&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used languages" height="165" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AntonioGiannini-BR&show_icons=true&theme=dracula&hide_border=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioGiannini-BR&layout=compact&langs_count=6&theme=dracula&hide_border=true"
+    height="170"
+    alt="Most Used Languages"
+  />
 </div>
 
 ## Contribution activity
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AntonioGiannini-BR/AntonioGiannini-BR/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AntonioGiannini-BR/AntonioGiannini-BR/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/AntonioGiannini-BR/AntonioGiannini-BR/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-<img src="https://raw.githubusercontent.com/AntonioGiannini-BR/AntonioGiannini-BR/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%" />
-
-</div>
 
